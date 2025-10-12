@@ -23,7 +23,7 @@ Durante el año 2025, he participado en proyectos integradores que combinan desa
 ## Contacto
 
 - 📧 Email: calmuccin@gmail.com 
-- 🌐 Portfolio: [tu-web-personal.com]([https://tu-web-personal.com](https://github.com/Proyecto1-ISPC-G14-2025)  
+- 🌐 Portfolio: [Proyecto]((https://github.com/Proyecto1-ISPC-G14-2025)  
 
 ---
 
