@@ -20,11 +20,6 @@ Durante el año 2025, he participado en proyectos integradores que combinan desa
 - **Tienda WooCommerce Personalizada**: Configuración avanzada de tienda en WordPress con métodos de pago integrados como PayPal y Mercado Pago.  
 - **Portal Institucional**: Desarrollo frontend con Bootstrap para sitio web multipágina integrado con backend dinámico en Python.
 
-## Contacto
-
-- 📧 Email: calmuccin@gmail.com 
-- 🌐 Portfolio: [Proyecto]((https://github.com/Proyecto1-ISPC-G14-2025)  
-
 ---
 
 Aquí encontrarás repositorios de práctica y proyectos reales desarrollados durante mi formación y trabajo en equipo, que reflejan tanto mi capacidad técnica como la metodología aplicada.
